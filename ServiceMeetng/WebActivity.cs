@@ -11,7 +11,7 @@ using Android.Views;
 using Android.Webkit;
 using Android.Widget;
 
-namespace ServiceMeetng
+namespace ServiceMeeting
 {
     [Activity(Label = "WebActivity", MainLauncher =false)]
     public class WebActivity : Activity

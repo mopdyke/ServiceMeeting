@@ -10,7 +10,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace ServiceMeetng
+namespace ServiceMeeting
 {
     [Activity(Label = "phone")]
     public class phone : Activity

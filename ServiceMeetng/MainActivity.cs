@@ -8,7 +8,7 @@ using Android.Content;
 using System;
 using Android.Webkit;
 
-namespace ServiceMeetng
+namespace ServiceMeeting
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : Activity
